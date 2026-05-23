@@ -1,0 +1,8 @@
+let marks = 45;
+if (marks >= 50) {
+    let pass = 1;
+    print(pass);
+} else {
+    let fail = 0;
+    print(fail);
+}
