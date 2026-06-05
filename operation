@@ -1,0 +1,11 @@
+
+first command in new terminal "
+cd "simple_compiler"
+ then write these files to run code in terminal.ps: just copy paste one by one
+
+python compiler.py --file text.txt
+python compiler.py --file addition.txt
+python compiler.py --file loop.lang
+python compiler.py --file factorial.lang
+python compiler.py --file ifelse.lang
+python compiler.py --file functions.lang
